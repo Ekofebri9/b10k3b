@@ -12,7 +12,7 @@ function cetak_gambar(){
 				echo '= ';
 			}
 		}
-		echo '<br>';
+		echo "\n";
 	}
 	
 }
